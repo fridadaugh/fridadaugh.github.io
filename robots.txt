@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fridadaugh.github.io/sitemap/sitemap_index.txt
+Sitemap: https://fridadaugh.github.io/sitemap/sitemap_index.txt.gz
